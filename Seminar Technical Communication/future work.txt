@@ -1,0 +1,15 @@
+We will concentrate on more modern models to ensure the safety of EVs.
+With more sophisticated metrics, as well as general guidelines for further
+ EV identification and diagnosis, to represent an actual relationship between
+ cyber attacks and physical response.
+
+Our upcoming effort includes creating defences against coordinated cyberattacks 
+on power system control and attacks that affect how the electricity market operates through AGC.
+
+With the use of currently available tools and techniques, future study on the security of data and 
+communication in the EV charging infrastructure can be conducted. It should come as no surprise that
+ such technologies are now utilised to analyse or assess the security of the wider smart grid or
+ a part of it, such as cyber-physical systems. To learn more about related tools, we advise reading
+ the material below. Other than the methods listed in Section V-A that are appropriate for technical
+ study of particular protocols, simulation of the power network or the communication network, or
+ a co-simulation of both, is a frequently used methodology.

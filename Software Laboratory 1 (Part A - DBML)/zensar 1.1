@@ -1,0 +1,67 @@
+create table assignment(idno int auto_increment,
+title varchar(200) not null,
+start_date date,
+primary key(idno));
+
+create table trainee(
+idno int primary key, 
+tr_name varchar(200),
+address varchar(300),
+gender char(10),
+dateofBirth date,
+stipend float,
+as_idno int,
+foreign key(as_idno) references assignment(idno));
+
+
+insert into assignment values(101,'yash','2022-02-9',1800,1001);
+insert into assignment values(102,'abhi','2022-03-9');
+
+insert into assignment values(103,'shree','2022-07-19');
+
+insert into assignment values(104,'kunal','2021-04-07');
+
+insert into assignment values(105,'hari','2025-05-09');
+
+insert into assignment values(106,'om','2022-12-7');
+select * from assignment;
+desc assignment;
+desc trainee;
+
+insert into trainee values(10,'tr1','mumbai','m','2001-12-07',2200,103);
+
+insert into trainee values(11,'tr2','pune','m','2002-04-04',1400,101);
+insert into trainee values(12,'tr3','banglore','f','2001-01-03',500,102);
+insert into trainee values(13,'tr4','baamati','m','2001-11-05',400,103);
+insert into trainee values(14,'tr5','delhi','m','2001-11-07',1600,104);
+insert into trainee values(15,'tr6','jabalpur','f','2001-10-25',1800,104);
+insert into trainee values(16,'tr7','jammu','m','2001-05-05',5500,106);
+insert into trainee values(17,'tr8','manglore','f','2001-10-03',1800,105);
+insert into trainee values(18,'tr9','gujrat','m','2014-08-01',1900,106);
+insert into trainee values(19,'tr10','up','m','2013-10-21',5800,106);
+insert into trainee values(20,'tr11','rajasthan','m','2001-03-07',7000,104);
+insert into trainee values(21,'tr12','hyderabad','m','2001-11-03',5000,103);
+insert into trainee values(22,'tr13','kerala','m','2001-12-01',2500,105);
+insert into trainee values(23,'tr14','mumbai','m','2005-10-21',1400,102);
+insert into trainee values(24,'tr15','tamil nadu','m','2001-05-08',8000,103);
+insert into trainee values(5,'tr16','mumbai','m','2013-07-09',4500,106);
+
+select * from trainee;
+
+select tr_name, gender, stipend from trainee;
+-- restrict no of rows where clause
+select * from trainee where gender='m';
+select * from trainee where gender='f';
+select * from trainee where stipend < 2000;
+select * from trainee where stipend >2500;
+select tr_name, gender, stipend, stipend*2 as '2months stipend' from trainee;
+
+select tr_name, gender, stipend, stipend*3 as 'Total stipend' from trainee;
+select * from trainee;
+select * from trainee where address='pune';
+
+select * from trainee where address='pune' or address='mumbai';
+select * from trainee where address='pune' and as_idno=3;
+select * from trainee where address in('pune','baamati','Hyderabad');
+select * from trainee where address !='pune';
+Select * from trainee where address= 'hyderabad' and gender ='f';
