@@ -31,5 +31,5 @@ Courses that I have studied during third year of my engineering offered by Depar
 >>   Activity  | Organization  | Repository
 >>   --- | --- | ---
 >>    ESD Program  | Zensar  | [Link]
->>    Internship  | IBM  | [Link]
+>>    Internship  | IBM  | [Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
 >>    
