@@ -27,11 +27,6 @@ Courses that I have studied during third year of my engineering offered by Depar
 
 
 
-## Projects
->>   Subject name | Project Name | Repository
->>   --- | --- | ---
->>   Data Science | IPL Match Win Predictor | [Link](https://github.com/yashraj9011/AIDS-Third-Year.git)
-
 ## Extra Work
 >>   Activity  | Organization  | Repository
 >>   --- | --- | ---
