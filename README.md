@@ -8,7 +8,7 @@ Courses that I have studied during third year of my engineering offered by Depar
 
 ## ODD Semester
 
-### Semester - 05  
+# Semester - 05  
 >> Subject Code | Subject Name | Course Instructor
 >> --- | --- | ---
 >> 317521 | Computer Networks | Prof. Rohini Naik
@@ -30,6 +30,6 @@ Courses that I have studied during third year of my engineering offered by Depar
 ## Extra Work
 >>   Activity  | Organization  | Repository
 >>   --- | --- | ---
->>    ESD Program  | Zensar  | [Link]
->>    Internship  | IBM  | [Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
+>>    ESD Program  | Zensar RPG Foundation | [Link]
+>>    Internship  | IBM Edunet Foundation | [Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
 >>    
