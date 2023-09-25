@@ -8,7 +8,7 @@ Courses that I have studied during third year of my engineering offered by Depar
 
 ## ODD Semester
 
-### Semester - 05  {[Repository](https://github.com/yashraj9011/AIDS-Third-Year.git)}
+### Semester - 05  
 >> Subject Code | Subject Name | Course Instructor
 >> --- | --- | ---
 >> 317521 | Computer Networks | Prof. Rohini Naik
