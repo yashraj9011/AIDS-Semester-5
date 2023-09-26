@@ -2,7 +2,7 @@
 # Third Year- VPKBIET
 
 
-Repository contains Handwritten Notes, Assignments ,Reference books and other material I prepared during the semester.  
+Repository contains Handwritten Notes , Assignments , Reference books and other material I prepared during the semester.  
 
 Courses that I have studied during third year of my engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati.
 
@@ -12,14 +12,14 @@ Courses that I have studied during third year of my engineering offered by Depar
 >> Subject Code | Subject Name | Course Instructor
 >> --- | --- | ---
 >> 317521 | Computer Networks | Prof. Rohini Naik
->> 310253 | Artificial Intelligence | Prof. Digamber Padulkar
+>> 310253 | Artificial Intelligence | Prof. Digambar Padulkar
 >> 310241 | Data Base Management System | Prof. Sahil Shah
 >> 310252 | Web Technology | Prof. Pradip Ghorpade
 >> 314445C | Elective 1 - Design Thinking | Prof. Arvind Jagtap
->> 3175523 | Software Laboratory 1 | Prof. Prof. Digamber Padulkar &  Prof. Sahil Shah
+>> 3175523 | Software Laboratory 1 | Prof. Digambar Padulkar &  Prof. Sahil Shah
 >> 317521| Computer Networks Laboratory | Prof. Rohini Naik
 >> 314445C | Elective 1 Laboratory | Prof. Arvind Jagtap
->> 317527 | Environmental Studies | Prof. Samadhan Morkhande
+>> 317527 | Environmental Studies | Prof. Samadhan Morkhade
 >> 317528E | MOOC - Learn new Skills | Prof. Pradip Ghorpade
 >> 317526| Seminar and Technical Communication | Prof. Digambar Padulkar
 
@@ -33,57 +33,56 @@ Courses that I have studied during third year of my engineering offered by Depar
 >>    ESD Program  | Zensar RPG Foundation | [Link]
 >>    Internship  | IBM Edunet Foundation | [Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
 
-ratory .
+
 # 310241 - Database Management System 
 -  Introduction, Purpose of Database Systems and Database-System Applications .
 -  Database Design and ER Model ,  Entity-Relationship Model , Various features of E-R model .   
--  Structured Query Language and PL/SQL Concept of Stored Procedures and Functions, Cursors, Triggers,
+-  Structured Query Language and PL/SQL Concept of Stored Procedures and Functions, Cursors , Triggers .
 -  Relational Database Design , CODD's Rules , Database Normalization and various normal forms and their Decomposition using Functional Dependencies .
--  Database Transaction Management , Concepts related to transaction  , ACID properties , Schedule , Serializability ,  Concurrency Control , Recovery methods and Log-Based Recovery .
+-  Database Transaction Management , Concepts related to transaction , ACID properties , Schedule , Serializability , Concurrency Control , Recovery methods and Log-Based Recovery .
 -  NoSQL Databases , CAP Theorem , Types of Data , Types of NoSQL Databases , Base Properties , MongoDB Crud Operations . 
--  Emerging Databases: Active and Deductive Databases , Complex Data Types , Object Orientation , Spatial Data .
+-  Emerging Databases , Active and Deductive Databases , Complex Data Types , Object Orientation , Spatial Data .
 
-# 210253-  Software Engineering 
--  Introduction   Software Engineering , Software Process, Software Engineering Models .
--  Requirements engineering , and analysis and use of various open source tools like smart draw .
--  Cost Estimation and Project Scheduling in detail , tools like Gannt chart .
--  Design Engineering principles and Architecture design .
--  Risk Management and Software Configuration Management .
--  Software Testing ,  Verification and Validation and Object-Oriented Software .
-
-#  217528- Statistics
-- Introduction to statistics ,population and different types of sampling methods .
-- Descriptive Statistics , measures of central tendency , various frequency distributions  .
-- Descriptive Statistics , measures of dispersion , skewness , kurtosis , correlation and regression
-- Random variables and distributed distributions and theoretical discrete ditributions.
-- Inferential Statistics containing hypothesis and its testing .
+# 317521 - Computer Networks
+-  Fundamentals of Computer Network , Network Devices , Network Topologies , Types of Network , Types of Transmission Media , Network Architecture ,  Network Models , Types of Addressing .
+-  Functions of Physical Layer , Transmission Impairment , Bandwidth utilization , Spread Spectrum & Multiplexing types , Types of cable connection , Line Coding Schemes .
+-  Functions of Network Layer , Switching Techniques , Network Layer Protocols like ARP , RARP , ICMP , IGMP , Network Routing Algorithms , Routing Protocols , Routing in MANET .
+-  Transprort Layer functions , Socket Programming , Elements of Transport Layer Protocols ,  Various Transport Layer Protocols .
+-  Application Layer , Client Server & Peer to Peer Architecture , Communication using TCP , UDP , DNS , HTTP , SMTP , MIME , POP3 , FTP , TELNET , DHCP , SNMP .
+-  Medium Access Control , Channel allocation , Pure and Slotted ALOHA , CSMA , WDMA , IEEE 802.3 Standards and Frame Formats .
   
+#  310252 - Web Technology
+
+- Basic of WWW, HTML elements , Casceding Style Sheets (CSS) .
+- Client Side Technologies , JavaScript syntax statement , operators , functions , jQuery and Overview of Angular JavaScript .
+- Java Servlets architecture and XML documents , vocabularies , Declaration , Namespaces , processing and transforming XML Documents , AJAX introduction and working .
+- Java Server Pages , Servlets , Model-View-Controller paradigm , Web Services , Struts Overview and Architecture .
+- Server Side Scripting Languages , PHP control statements, arrays, functions, operations , expressions , session tracking , Connectivity of MySQL with PHP , Introduction to ASP.NET and its Overview , .Net Framework , Overview of Node JS and C# .
+- Ruby and Rails , Introduction to Ruby ,  control statements, fundamentals of arrays, scalar types and their operation, Introduction to Rails Overview of Rails , Introduction to EJB .
       
 
-#  217529- Internet of Things
-- Fundamentals of Digital Electronics .
-- Communication interfaces and basic peripherals . 
-- Introduction to IOT and various technologies behind smart and intelligent devices.
-- Various IOT systems , networks and protocols asoociated with it . 
-- IOT design and system engineering, sensors and actuators .
-- Applications of IOT in various sectors and communication between them .
+#  310253 - Artificial Intelligence
 
-# 217530- Management Information System 
-- Overview of Management Information System 
-- Concepts , functions , roles , Business Intelligence for MIS .
-- Organization , Management and Network Enterprise .
-- IT Infrastructure and various emerging technologies .
-- E-commerce , digital marketing and digital goods , Business Applications .
-- Decision Making and Artificial Intelligence and Data Science for MIS .
-  
+- Introduction to Artificial Intelligence , History , Risks and Benefits of AI , Agents and Environments , Concept of Rationality .
+- Solving Problems by Searching , Problem-Solving Agents , Uninformed & Informed search , Heuristic Functions , Optimization Problems .
+- Game Theory , Alpha–Beta Tree Search, Monte Carlo Tree Search , Stochastic Games , Constraint Satisfaction Problems , Backtracking Search for CSPs .
+- Knowledge-Based Agents , Wumpus World , Propositional Logic , Agents Based on Propositional Logic ,  First-Order Logic , Knowledge Engineering in First-Order Logic .
+- Inference, Forward Chaining , Backward Chaining, Resolution , Knowledge Representation structures , Modal Logic .
+- Various planning approaches and algorithms associated with it , Time , Schedules , Limits of AI , Ethics of AI , Future of AI , AI Components , AI Architectures .
 
-# 217533- Project Based Learning 2
--  Exploring various domains like Data Science , Machine Learning , Internet of Things, Artificial Intelligence
--  Selected Machine Learning domain .
--  Approved project idea by guide  and worked in team .
--  Simple beginner level project
--  Use of Software Engineering Methodology and Git version control system .
 
-This are some keypoints which gives idea of curriculam! 
+# 314445 (C) - Design Thinking
+ 
+- Introduction to Design and Design Thinking , Defination , Need , Features , Problem Solving , Use , Principles , Thinking-A Solution basedthinking , Scientific Methods .
+- Explore And Emphathise phase , STEEP Analysis , 5W+H Question , User Interviews , Persona Development, Customer Journey Map , Use of MIRO Tool to draw the diagrams .
+- Define and Ideate Phase , Define Point of view , How Might We Question , Storytelling , Brainstorming , 2X2 Matrix .
+- Ideate , SCAMPER Tool , Template , Deconstruct & Reconstruct idea , User Experience Journey .
+- Prototype , Storyboard , Critical Experience Prototype (CEP) & Critical Function Prototype (CFP) , Crazy experiments - Darkhorse Prototype, Combined experiments – Funky prototype ,      Prototyping types .
+- Test and Reflect , Powerful questions in experience testing ,  A/B Testing , Usability Testing , Lean Canvas , Innovation Tool using user needs , CAP, 4s .
+- UBER EATS Case Study , IBM Design Thinking , Redesigning e Customer Contact Center at Toyota , Social Networking at MeYou Health .
+- Design Thinking in Healthcare with IDEO ,  Design Thinking Transformed Airbnb , Design Thinking - Health Care Industry .
+
+
+These are some keypoints which gives idea of curriculam that I studied in odd semester! 
  
 Cheers!  
