@@ -39,9 +39,9 @@ ratory .
 -  Database Design and ER Model ,  Entity-Relationship Model , Various features of E-R model .   
 -  Structured Query Language and PL/SQL Concept of Stored Procedures and Functions, Cursors, Triggers,
 -  Relational Database Design , CODD's Rules , Database Normalization and various normal forms and their Decomposition using Functional Dependencies .
--  Searching in trees , representation of symbol tables , OBST (Optimal Binary Search Tree ) , OBST an example of dynamic programming , AVL tree , splay tree , AA tree,  Red-Black tree , k-dimensional tree .
--  Indexing and multiway tree , B-tree and B+ tree insertion and deletion , uses .
--  File organization , Indexed sequential file organization and Linked Organization .
+-  Database Transaction Management , Concepts related to transaction  , ACID properties , Schedule , Serializability ,  Concurrency Control , Recovery methods and Log-Based Recovery .
+-  NoSQL Databases , CAP Theorem , Types of Data , Types of NoSQL Databases , Base Properties , MongoDB Crud Operations . 
+-  Emerging Databases: Active and Deductive Databases , Complex Data Types , Object Orientation , Spatial Data .
 
 # 210253-  Software Engineering 
 -  Introduction   Software Engineering , Software Process, Software Engineering Models .
