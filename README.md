@@ -31,11 +31,14 @@ Courses that I have studied during third year of my engineering offered by Depar
 >> 317528E | MOOC - Learn new Skills | Prof. Pradip Ghorpade
 >> 317526| Seminar and Technical Communication | Prof. Digambar Padulkar
 
+##   Presentation 
+>>   Activity | Repository
+>>   --- | ---
+>>   Seminar Technical Communication | [Link]( )
 
 
 
-
-## Extra Work
+## Extra Cocurricular Activities 
 >>   Activity  | Organization  | Repository
 >>   --- | --- | ---
 >>    ESD Program  | Zensar RPG Foundation | [Link]
