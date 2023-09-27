@@ -34,7 +34,7 @@ Courses that I have studied during third year of my engineering offered by Depar
 ##   Presentation 
 >>   Activity | Repository
 >>   --- | ---
->>   Seminar Technical Communication | [Link]( )
+>>   Seminar Technical Communication | [Link](https://github.com/yashraj9011/Seminar-Details.git)
 
 
 
