@@ -4,7 +4,7 @@
 
 Repository contains Handwritten Notes , Assignments , Reference books and other material I prepared during the semester.  
 
-Courses that I have studied during third year of my engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati.
+Courses that I have studied during third year of my engineering offered by the Department of Artificial Intelligence and Data Science, VPKBIET Baramati.
 
 
 `Semester:` 5<sup>th</sup> Sem  
@@ -24,12 +24,12 @@ Courses that I have studied during third year of my engineering offered by Depar
 >> 310241 | Data Base Management System | Prof. Sahil Shah
 >> 310252 | Web Technology | Prof. Pradip Ghorpade
 >> 314445C | Elective 1 - Design Thinking | Prof. Arvind Jagtap
->> 3175523 | Software Laboratory 1 | Prof. Digambar Padulkar &  Prof. Sahil Shah
->> 317521| Computer Networks Laboratory | Prof. Rohini Naik
+>> 317523 | Software Laboratory 1 | Prof. Digambar Padulkar &  Prof. Sahil Shah
+>> 317521 | Computer Networks Laboratory | Prof. Rohini Naik
 >> 314445C | Elective 1 Laboratory | Prof. Arvind Jagtap
 >> 317527 | Environmental Studies | Prof. Samadhan Morkhade
 >> 317528E | MOOC - Learn new Skills | Prof. Pradip Ghorpade
->> 317526| Seminar and Technical Communication | Prof. Digambar Padulkar
+>> 317526 | Seminar and Technical Communication | Prof. Digambar Padulkar
 
 ##   Presentation 
 >>   Activity | Repository
@@ -44,6 +44,9 @@ Courses that I have studied during third year of my engineering offered by Depar
 >>    ESD Program  | Zensar RPG Foundation | [Link](https://github.com/yashraj9011/Zensar-ESD-Training.git)
 >>    Internship  | IBM Edunet Foundation | [Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
 
+I have studied 5 Courses during 5th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
+
+Also implemented Assignments of Software Laboratory 1 , Computer Networks Laboratory and Elective-1 Laboratory .
 
 # 310241 - Database Management System 
 -  Introduction, Purpose of Database Systems and Database-System Applications .
