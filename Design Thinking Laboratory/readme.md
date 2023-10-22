@@ -14,4 +14,4 @@
 ![Logo](https://github.com/yashraj9011/AIDS-Semester-5/blob/master/Design%20Thinking%20Laboratory/Process%20of%20execution.png)
 
 # Smart Voting System Diagram
-![Logo](
+![Logo](https://github.com/yashraj9011/AIDS-Semester-5/blob/master/Design%20Thinking%20Laboratory/Smart%20Voting%20System%20Diagram.jpg)
