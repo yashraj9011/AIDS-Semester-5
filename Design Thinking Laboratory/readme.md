@@ -5,3 +5,11 @@
 
 # Customer Journey Map for Smart Voting System
 ![Logo](https://github.com/yashraj9011/AIDS-Semester-5/blob/master/Design%20Thinking%20Laboratory/Customer%20Journey%20Map%20for%20Smart%20Voting%20System.jpg)
+
+
+# PESTLE Analysis for Smart Voting System 
+![Logo](https://github.com/yashraj9011/AIDS-Semester-5/blob/master/Design%20Thinking%20Laboratory/PESTLE%20Aanalysis%20For%20Smart%20Voting%20System.png)
+
+# Process of Execution
+
+# Smart Voting System Diagram
