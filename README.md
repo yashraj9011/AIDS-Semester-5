@@ -39,11 +39,11 @@ Courses that I have studied during third year of my engineering offered by the D
 
 
 ## Extra Cocurricular Activities 
->>   Activity  | Organization  | Repository
->>   --- | --- | ---
->>    ESD Program  | Zensar RPG Foundation | [Link](https://github.com/yashraj9011/Zensar-ESD-Training.git)
->>    Internship  | IBM Edunet Foundation | [Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
->>    Podcast     | Youtube Dostcast | [Link](https://youtu.be/lefw_D0q5BA?si=y1jxoZfdo7sCQBwG)
+>>   Activity  | Organization | Domain  | Repository
+>>   --- | --- | --- | ---
+>>    ESD Program  | Zensar RPG Foundation | General Aptitude| [Link](https://github.com/yashraj9011/Zensar-ESD-Training.git)
+>>    Internship  | IBM Edunet Foundation | Natural Language Processing |[Link](https://github.com/yashraj9011/IBM-Internship--TEAM-AI16-ENIGMA-.git)
+>>    Podcast     | Youtube Dostcast | Artificial Intelligence|[Link](https://youtu.be/lefw_D0q5BA?si=y1jxoZfdo7sCQBwG)
 
 I have studied 5 Courses during 5th Semester of my engineering offered by the Department of Artificial Intelligence and Data Science , VPKBIET Baramati .
 
